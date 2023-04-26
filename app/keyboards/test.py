@@ -19,3 +19,4 @@ def generate_view_result_markup():
     buttons = [InlineKeyboardButton('Посмотреть результат', callback_data=f'result-')]
     return InlineKeyboardMarkup().add(*buttons)
 
+
