@@ -6,3 +6,4 @@ config.py
 /data/*
 /data/tests/*
 !/data/tests/
+!/data/*.json
