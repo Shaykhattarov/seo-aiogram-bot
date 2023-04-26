@@ -3,4 +3,6 @@ config.py
 .vscode
 
 /venv/
-/data/
+/data/*
+/data/tests/*
+!/data/tests/
